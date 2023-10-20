@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE BanqueService SYSTEM "serviceBanque.dtd" >
+<BanqueService>
+  <conversion>
+    <montant>montant</montant>
+  </conversion>
+</BanqueService>
